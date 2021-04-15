@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+
+}
+section{
+    color: black;
+}
+
+h1{
+
+    font-weight: 200;
+    background-color: chocolate
+    ;
+color: cornflowerblue;}
+
+.pierwszy{
+    font-weight: 100;
+    background-color: cyan;
+color: darkblue;}
+.drugi{
+    font-weight: 100;
+    background-color: beige
+    ;
+    color: darkslateblue;
+}
+ol{background-color: darksalmon;}
+
+li{
+    background:red;
+}
+#item1 {
+    color: royalblue;
+}
+#item2 {
+    color: silver;
+}
+#item3 {
+    color: springgreen;
+}
+#item4{
+    color: tomato;
+}
